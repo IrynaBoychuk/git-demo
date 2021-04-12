@@ -5,10 +5,3 @@ If after
 hello
 hello
 
-
-----
-I was wondering
-If after
-hello
-hello
----

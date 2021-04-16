@@ -1,0 +1,4 @@
+hello
+spring
+bye
+winter
